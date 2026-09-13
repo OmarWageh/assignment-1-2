@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To My Calculator Project .");
+            while (true)
+            {
+            
             Console.Write("Please Enter the First Number: ");
             int num1 = int.Parse(Console.ReadLine());
             Console.Write("pleae Enter the Second Number: ");
@@ -26,6 +29,8 @@
                 var division = num1 / num2;
                 Console.WriteLine($"The Division Two Numbers are: {division}");
             }
+                }
+           
         }
     }
 }
