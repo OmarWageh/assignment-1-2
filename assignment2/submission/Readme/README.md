@@ -37,7 +37,7 @@ The calculator also handles division by zero and allows the user to perform calc
 - .NET SDK installed on your computer.
 - Visual Studio, Visual Studio Code, or another C# development environment.
 
-### Steps
+### how to Run the Application
 
 1. Clone the repository:
 git clone https://github.com/OmarWageh/assignment-1-2.git
